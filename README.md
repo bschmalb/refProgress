@@ -1,16 +1,7 @@
-# development
+# RefProgress
+A small flutter application to visualise the countdown for finishing the teaching clerkship.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/32933389/224572469-a769c9d3-a360-42ce-ad71-0b2a118cb4d6.png" width="200"> | 
+<img src="https://user-images.githubusercontent.com/32933389/224572472-219c39ba-8157-4b52-86c4-d2b20566c618.png" width="200"> | 
+<img src="https://user-images.githubusercontent.com/32933389/224572473-a9819ffb-7a1d-4589-9e53-8d1b46863089.png" width="200"> | 
+<img src="https://user-images.githubusercontent.com/32933389/224572475-de0d0699-96b3-49f0-9213-2a1d417f1c0e.png" width="200">
